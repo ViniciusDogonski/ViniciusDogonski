@@ -14,7 +14,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=viniciusdogonski&show_icons=true" />
 </picture>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdogonski&layout=compact&hide_border=true&title_color=59B66E&text_color=59B66E&bg_color=151515"  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference) />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdogonski&layout=compact&hide_border=true&title_color=59B66E&text_color=59B66E&bg_color=151515" />
 </div>
  
 
