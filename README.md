@@ -5,7 +5,7 @@
 <div align="center">  
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=ViniciusDogonski&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -17,7 +17,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDogonski&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusDogonski&theme=dark&show_icons=true)
+
  
  
  
